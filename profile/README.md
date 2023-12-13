@@ -4,7 +4,7 @@
 `테스트 ID`: 66885000
 
 ## 유스케이스 다이어그램
-("../figures/usecase.png")
+(../figures/usecase.png)
 
 ## 서비스 아키텍쳐
-("../figures/architecture.png")
+(../figures/architecture.png)
