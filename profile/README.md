@@ -23,8 +23,12 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
   LG HelloVision DX Data School 에서 진행한 VOD 개인화 추천 서비스 프로젝트입니다.
 
+## 🤼‍♀️ 팀원 소개
 
-  ### Model 
+  <img width="443" alt="image" src="https://github.com/LV-3/.github/assets/111716640/c5bd9a71-8f1c-4ef1-aee5-9649df801827">
+
+
+## Model 
   
   헬로비전 고객들에게 효율적인 VOD 추천을 제공하고자 저희는 다음 4가지의 추천 시스템을 구성하였습니다.
   
@@ -33,7 +37,7 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
   * DeepFM을 통한 개인화 추천 시스템
   * 날씨 기반 추천 시스템
     
-  ### Data
+## Data
 
   * LangChain을 통한 Prompt Engineering을 통해 VOD에 대한 메타 데이터를 구축하였습니다.
   <img width="799" alt="image" src="https://github.com/LV-3/.github/assets/111716640/1625d0cc-db88-420e-8610-b31c482854f1">
@@ -45,7 +49,7 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 ![Flow chart](/figures/flowchart.png)
 
 ## 서비스 아키텍쳐
-![Architecture]](/figures/architecture.png)
+![Architecture](/figures/architecture.png)
 
 ## 인프라 아키텍쳐
 ![Infrastructure](/figures/infra.png)
@@ -53,9 +57,6 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
 
 
-## 🤼‍♀️ 팀원 소개
-
-<img width="443" alt="image" src="https://github.com/LV-3/.github/assets/111716640/c5bd9a71-8f1c-4ef1-aee5-9649df801827">
 
 ---
 + 팀 노션 정리하기?
