@@ -28,6 +28,16 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
   <img width="443" alt="image" src="https://github.com/LV-3/.github/assets/111716640/c5bd9a71-8f1c-4ef1-aee5-9649df801827">
 
 
+## 요청 흐름도
+![Flow chart](/figures/flowchart.png)
+
+## 서비스 아키텍쳐
+![Architecture](/figures/architecture.png)
+
+## 인프라 아키텍쳐
+![Infrastructure](/figures/infra.png)
+
+
 ## Model 
   
   헬로비전 고객들에게 효율적인 VOD 추천을 제공하고자 저희는 다음 4가지의 추천 시스템을 구성하였습니다.
@@ -45,14 +55,6 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
 
 
-## 요청 흐름도
-![Flow chart](/figures/flowchart.png)
-
-## 서비스 아키텍쳐
-![Architecture](/figures/architecture.png)
-
-## 인프라 아키텍쳐
-![Infrastructure](/figures/infra.png)
 
 
 
