@@ -41,15 +41,14 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
 
 
-
-
-## 유스케이스 다이어그램
-![usecase diagram](/figures/usecase.png)
+## 요청 흐름도
+![Flow chart](/figures/flowchart.png)
 
 ## 서비스 아키텍쳐
-![서비스 아키텍쳐](/figures/architecture.png)
+![Architecture]](/figures/architecture.png)
 
-## 사용자 요청 흐름도
+## 인프라 아키텍쳐
+![Infrastructure](/figures/infra.png)
 
 
 
