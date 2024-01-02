@@ -88,7 +88,7 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
 * <i>Explainable Recommender System in 카카오웹툰</i>
   
-  https://speakerdeck.com/kakao/explainable-recommender-system-in-kakaowebtun?slide=11
+  [https://speakerdeck.com/kakao/explainable-recommender-system-in-kakaowebtun?slide=11](https://speakerdeck.com/kakao/explainable-recommender-system-in-kakaowebtun)https://speakerdeck.com/kakao/explainable-recommender-system-in-kakaowebtun
 
 
 
