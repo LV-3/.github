@@ -23,7 +23,11 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
   * LG HelloVision DX Data School 에서 진행한 VOD 개인화 추천 서비스 프로젝트입니다.
 
-  * 줄거리 데이터를 기반으로 **Prompt Engineering**을 통해 메타 데이터를 생성하였습니다.
+  * 저희는 컨텐츠에 대해 더 세밀화된 특징으로 다루고자 메타 데이터를 고려하기로 하였습니다.
+    
+  * 그 결과 줄거리 데이터를 기반으로 **Prompt Engineering**을 통해 메타 데이터를 생성할 수 있었고,
+    
+    이를 통해 컨텐츠에 대한 세밀화된 특징을 다룰 수 있게 되었습니다.
     
   * 생성한 메타 데이터를 추천 시스템에 적용하여 사용자에게 **설명 가능한 추천 시스템**을 기획하였습니다.
   
@@ -70,6 +74,9 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 ## Explainable Recommender System
 
 * 개인화 추천모델로는 **DeepFM**을 사용하였습니다.
+
+* if(kakao)2022에서  "Explainalbe Recommender System in 카카오웹툰"을 참고하여 **설명 가능한 추천 시스템**을 기획하였습니다.
+
 * 설명가능한 추천 시스템을 구축하기위해 DeepFM의 추천 결과의 메타 데이터 속성을 **UI를 통해 명시** 하였습니다.
 
   ![image](https://github.com/LV-3/.github/assets/111716640/a0608f6a-e832-4a07-80d3-f0ae4dd2af53)
@@ -77,7 +84,11 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 
 
 
+## References
 
+* <i>Explainable Recommender System in 카카오웹툰</i>
+  
+  https://speakerdeck.com/kakao/explainable-recommender-system-in-kakaowebtun?slide=11
 
 
 
