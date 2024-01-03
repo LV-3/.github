@@ -47,7 +47,7 @@ VOD 소비 이력을 바탕으로 세부 취향을 고려한 추천 서비스를
 ![Infrastructure](/figures/infra.png)
 
 
-## Recommendation System Using GPT
+## Recommender System Using GPT
 
 * Prompt Engineering을 하기 위해 LLM FrameWork인 **LangChain**을 사용하였습니다.
   
